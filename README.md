@@ -1,12 +1,9 @@
-# Bomberman 1
-Juego creado para el curso de Programación 2.
-
+# Bomberman 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/9372893/27963567-18dd2066-62fb-11e7-93f6-e632f910bb18.png">
 </div>
 
-## Plot
-Juego altamente inspirado en Bomberman 5 (~~Para quienes tuvieron infancia~~)  
+Juego altamente inspirado en Bomberman 5
 No merece explicación alguna, solo planta bombas y acaba con el resto.  
 Estos enemigos no saben poner bombas, pero no te aceleres, te pueden herir de otras formas.  
 No te confies después de jugar el primer nivel, los enemigos cada vez son más fuertes (e inteligentes)
@@ -32,20 +29,6 @@ No te confies después de jugar el primer nivel, los enemigos cada vez son más 
 - Esta escrito en managed c++
 - Static Objects y namespaces
 - Inteligencia Artificial solo con principios matematicos.
-
-
-## CREADORES
-
-- Diego Jara
-
-## SOBRE UPC LAB Y UPC GAMES
-> En UPC LAB Somos un grupo de  de gente apasionada por la tecnología, que nos gusta desarrollar aplicaciones de todo tipo.
-> También ayudamos y hacemos aplicaciones, si quieres más información escribe a: <upclabperu@gmail.com>.
-
-> En UPC GAMES seguimos esta mentalidad, nos gusta hacer juegos; Visual Studio, Python, Unity, Unreal, Realidad Virtual, no importa la plataforma.  
-
-> Estamos buscando activamente gente que crea en esta filosofía, para que pueda compartir sus juegos, pero mucho más que eso: 
-> Comentar, corregir, sugerir, agregar funcionalidades y hacer juegos en grupo.
 
 <div align="center">
   <a href="https://github.com/upclab">
